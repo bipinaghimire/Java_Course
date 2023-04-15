@@ -1,4 +1,4 @@
-package Algorithms;
+package Algorithms.StringAlgorithm;
 
 public class algo_driven_string {
 

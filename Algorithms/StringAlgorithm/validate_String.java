@@ -1,4 +1,4 @@
-package Algorithms;
+package Algorithms.StringAlgorithm;
 
 public class validate_String {
     public static boolean isPasswordComplex(String s) {

@@ -1,4 +1,4 @@
-package Algorithms;
+package Algorithms.StringAlgorithm;
 
 public class string_search {
     public static boolean isAtEvenIndex(String s, char item) {

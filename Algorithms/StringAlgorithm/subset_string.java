@@ -1,4 +1,4 @@
-package Algorithms;
+package Algorithms.StringAlgorithm;
 
 public class subset_string {
     // to work on each character

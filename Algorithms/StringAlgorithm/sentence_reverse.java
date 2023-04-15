@@ -1,4 +1,4 @@
-package Algorithms;
+package Algorithms.StringAlgorithm;
 
 public class sentence_reverse {
     public static String reverseEachWord(String s) {
