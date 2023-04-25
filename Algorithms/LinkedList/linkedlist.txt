@@ -1,0 +1,10 @@
+USEFUL TOOL WHEN WORKING WITH LINEAR DATA
+
+=> elements not stored at contiguous locations
+=>elements linked using pointers
+=>each element called node contsins data and a reference to the next element
+
+first node= head
+last node =>tail
+
+=>size may vary
