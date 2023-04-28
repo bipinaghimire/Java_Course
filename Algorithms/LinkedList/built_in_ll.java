@@ -37,6 +37,14 @@ public class built_in_ll {
         thirdNode.next = fourthNode;
 
         linkedlist.displayContents();
+        // delete th eback half of the linked list
+
+        linkedlist.deleteBackHalf();
+        linkedlist.displayContents();
+
+        // delete kth node from the end of the list
+        linkedlist.deleteKthNode(2);
+        linkedlist.displayContents();
 
     }
 }
