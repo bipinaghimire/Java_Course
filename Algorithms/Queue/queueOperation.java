@@ -16,13 +16,16 @@ public class queueOperation {
 
         System.out.println(queue.peek());
 
-        System.out.println(queue.poll());
-
         System.out.println(queue);
 
         int removedItem = queue.remove();
         System.out.println(removedItem);
 
         System.out.println(queue);
+
+        while (!queue.isEmpty()) {
+
+            System.out.println(queue.remove());
+        }
     }
 }
