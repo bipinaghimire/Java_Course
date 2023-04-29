@@ -1,0 +1,8 @@
+==> ds useful in algorithms where you need to process data in order
+==>a queue contains the elements in the order they were added
+==>elements are inserted at the end of the queue ad removed from the front
+==>therefore follows first in first out FIFO rule
+==>enqueue : add an item in the back 
+==>dequeue: removes an item fron the front
+==> peek: accesses the item at the front of the queue
+==>linked list is standard implementation of queue
