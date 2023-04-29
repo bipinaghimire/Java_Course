@@ -1,6 +1,6 @@
 package Algorithms.LinkedList;
 
-public class custom_ll {
+public class customLinkedList {
     Node head;
 
     public void displayContents() {

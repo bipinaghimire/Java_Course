@@ -1,6 +1,6 @@
 package Algorithms.LinkedList;
 
-public class built_in_ll {
+public class builtInLinkedList {
     // public static void main(String[] args) {
     // LinkedList<String> listy = new LinkedList<>();
     // listy.add("Hello");
@@ -24,7 +24,7 @@ public class built_in_ll {
     // custom linked list
 
     public static void main(String[] args) {
-        custom_ll linkedlist = new custom_ll();
+        customLinkedList linkedlist = new customLinkedList();
 
         Node firstNode = new Node(3);
         Node secondNode = new Node(4);

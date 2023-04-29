@@ -2,14 +2,13 @@ package Basics;
 
 import java.util.Scanner;
 
-public class Main {
+public class basicOperations {
     public static void main(String[] args) {
-        //output
+        // output
         // System.out.print("Hello World\n from");
         // System.out.println("Hello World");
 
-
-        //variables
+        // variables
         // String name = "hi";
         // int age = 20;
         // double gpa = 3.5;
@@ -18,7 +17,7 @@ public class Main {
         // System.out.println(name);
         // System.out.println(age);
         // System.out.println(gpa);
-        // System.out.println(grade); 
+        // System.out.println(grade);
 
         // int a = 10;
         // int b = 3;
@@ -34,7 +33,9 @@ public class Main {
 
         int a = input.nextInt();
         int b = input.nextInt();
-        int sum = a+b;
-        System.out.println("sum"+sum);
+        int sum = a + b;
+        System.out.println("sum" + sum);
+
+        input.close();
     }
 }
