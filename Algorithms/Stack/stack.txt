@@ -1,0 +1,8 @@
+=> useful for algoruthms to keep track of state
+=>it is an ordered series of object just like list 
+=>when stack is used we push objects to the top of the stack and 
+=>pop objects off the stack feom the top of the stack
+=>items are added and removed from the top of the stack
+=>follows lifo=> last in first out rule
+=>therefore in stack the last item pushed onto the stack will be the first item popped off the stack
+=>
