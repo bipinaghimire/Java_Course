@@ -1,7 +1,7 @@
 package Algorithms.LinkedList;
 
 public class customLinkedList {
-    Node head;
+    public Node head;
 
     public void displayContents() {
         Node current = head;
@@ -47,5 +47,9 @@ public class customLinkedList {
             current = current.next;
         }
         prev.next = current.next;
+    }
+
+    public char[] hasCycle() {
+        return null;
     }
 }

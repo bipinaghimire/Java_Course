@@ -1,0 +1,5 @@
+=> hash based structures are great when working with collections,sets, and data formatted
+as key-value pairs
+=>HashSet is unordered collection of unique items
+=> HashMap is useful fore key-value pairs
+=> hashmap keys are unique and for hashset each value is unique
