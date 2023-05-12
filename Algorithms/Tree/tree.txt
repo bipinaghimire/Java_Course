@@ -1,0 +1,23 @@
+=> the tree structure is useful for working with nonlinear data
+=> a tree is a collection of nodes, where each node might be linked to one, two, or even more nodes.
+=> just linked list there is specific starting node called the root(called head on ll)
+=> root contains other linked nodes called child nodes.
+=> A tree is a collection of nodes that are connected by links
+=> binary tree=> each node can only have no more than 2 child nodes.
+=> binary search tree(bst) => add constarints of order.
+=> in bst value of left child node must be smaller than parent
+and right child node must be greater than parent
+=> best best-case=>0(log(n))
+worst case => 0(n)
+=> recursion allows us to iterate through the tree in unique way
+=> tree travesal => searching elements in tree
+=> in-order traversal=> recursively visit left subtree, visit root, recursively visit right sub tree
+                     => explores root befre leaves
+=> pre-order => visit root-- visit left subtree -- visit right subtree
+            => explore leaves before roots
+=> post-order => left--right--root
+              => explores data sequentially
+=> Recursion can prove to be a useful tool for this type of algorithm because it continuously
+follows a pattern with slight modification to the input
+
+=>
